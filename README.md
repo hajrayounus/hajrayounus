@@ -12,7 +12,7 @@
 <div>
   
   <ul>
-    <li>🔭 I’m currently working on <a href="/#/"></a></li> <br/>
+<!--     <li>🔭 I’m currently working on <a href="/#/"></a></li> <br/> -->
     <li>👩🏻‍💻 I’m currently learning <strong>ASP.Net</strong></li> <br/>
 <!--     <li>👨‍💻 All of my projects are available at <a href="https://linktr.ee/amnayounus">linktr.ee/amnayounus</a></li> <br/> -->
 <!--     <li>💬 Ask me about <strong>JavaScript, React</strong></li> <br/> -->
